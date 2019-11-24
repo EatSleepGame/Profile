@@ -1,0 +1,25 @@
+# (Music)
+# > Alibaba
+USER-AGENT,walkman*,ChinaMedia
+USER-AGENT,xiami*,ChinaMedia
+DOMAIN-SUFFIX,xiami.com,ChinaMedia
+DOMAIN-SUFFIX,xiami.net,ChinaMedia
+# > Netease
+USER-AGENT,NeteaseMusic*,ChinaMedia
+USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*,ChinaMedia
+DOMAIN-SUFFIX,music.126.net,ChinaMedia
+DOMAIN-SUFFIX,music.163.com,ChinaMedia
+# > Tencent
+USER-AGENT,MOO%E9%9F%B3%E4%B9%90*,ChinaMedia
+USER-AGENT,QQ%E9%9F%B3%E4%B9%90,ChinaMedia
+DOMAIN-SUFFIX,qqmusic.qq.com,ChinaMedia
+DOMAIN-SUFFIX,y.qq.com,ChinaMedia
+DOMAIN,aqqmusic.tc.qq.com,ChinaMedia
+# Kugou and Kuwo
+DOMAIN-SUFFIX,kugou.com,ChinaMedia
+USER-AGENT,%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90*,ChinaMedia
+DOMAIN-SUFFIX,kuwo.cn,ChinaMedia
+DOMAIN-SUFFIX,koowo.com,ChinaMedia
+# > Baidu
+USER-AGENT,baiduyinyue,ChinaMedia
+DOMAIN-SUFFIX,qianqian.com,ChinaMedia
